@@ -8,6 +8,7 @@ public class PracticaGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracticaGitApplication.class, args);
+		System.out.println("PRYECTO INICIADO");
 	}
 
 }
